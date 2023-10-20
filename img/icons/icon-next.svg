@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Stroke 1</title>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-1" transform="translate(-1280.000000, -4265.000000)" stroke="#FFFFF4" stroke-width="2">
+            <g id="Group-5" transform="translate(629.000000, 4266.000000)">
+                <polyline id="Stroke-1" transform="translate(656.500000, 9.000000) rotate(-90.000000) translate(-656.500000, -9.000000) " points="665.5 4.5 656.500057 13.5 647.5 4.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
